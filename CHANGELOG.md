@@ -1,3 +1,9 @@
+## [1.0.1-dev.5](https://github.com/xxxR3Dxxx/R3D-PatchLab/compare/v1.0.1-dev.4...v1.0.1-dev.5) (2026-08-31)
+
+### 🐛 Bug Fixes
+
+* use structural coroutine fingerprint for StandBy 2.1.22.561 ([d70a715](https://github.com/xxxR3Dxxx/R3D-PatchLab/commit/d70a7152aa7b8fb2bb5981431b96d81c07ddac02))
+
 ## [1.0.1-dev.4](https://github.com/xxxR3Dxxx/R3D-PatchLab/compare/v1.0.1-dev.3...v1.0.1-dev.4) (2026-08-31)
 
 ### 🐛 Bug Fixes
