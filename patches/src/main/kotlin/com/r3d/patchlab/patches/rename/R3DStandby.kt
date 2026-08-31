@@ -13,6 +13,7 @@ val renameStandByPatch = resourcePatch(
     description = "Changes the launcher name to R3D StandBy.",
     default = true
 ) {
+
     dependsOn(disableLicenseCheckPatch)
 
     compatibleWith(

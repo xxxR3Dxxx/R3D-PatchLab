@@ -11,7 +11,7 @@ I create these patches for fun, learning, and experimentation. I use AI extensiv
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/xxxR3Dxxx/R3D-PatchLab/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+> **[v1.0.1-dev.6](https://github.com/xxxR3Dxxx/R3D-PatchLab/releases/tag/v1.0.1-dev.6)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
 <summary>📦 StandBy Mode&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
@@ -19,7 +19,7 @@ I create these patches for fun, learning, and experimentation. I use AI extensiv
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Rename StandBy](#rename-standby) | Changes the launcher name to R3D StandBy. |  |
-| [Unlock Premium](#unlock-premium) | Unlock Premium Features. |  |
+| [Unlock Premium](#unlock-premium) | Unlocks Premium Features. |  |
 
 </details>
 
