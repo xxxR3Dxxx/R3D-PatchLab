@@ -1,3 +1,10 @@
+## [1.0.1-dev.6](https://github.com/xxxR3Dxxx/R3D-PatchLab/compare/v1.0.1-dev.5...v1.0.1-dev.6) (2026-08-31)
+
+### 🐛 Bug Fixes
+
+* finalize structural StandBy premium fingerprint ([4423358](https://github.com/xxxR3Dxxx/R3D-PatchLab/commit/44233582c520b0f6b9e382df49e7162a37b7a475))
+* force Boolean true at return ([b923b16](https://github.com/xxxR3Dxxx/R3D-PatchLab/commit/b923b166880714975186d626ae657ee64e245c7b))
+
 ## [1.0.1-dev.5](https://github.com/xxxR3Dxxx/R3D-PatchLab/compare/v1.0.1-dev.4...v1.0.1-dev.5) (2026-08-31)
 
 ### 🐛 Bug Fixes
