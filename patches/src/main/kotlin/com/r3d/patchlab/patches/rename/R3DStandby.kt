@@ -5,6 +5,7 @@ package com.r3d.patchlab.patches.rename
 import app.morphe.patcher.patch.resourcePatch
 import app.morphe.patcher.patch.ApkFileType
 import app.morphe.patcher.patch.Compatibility
+import com.r3d.patchlab.patches.pairip.disableLicenseCheckPatch
 
 @Suppress("unused")
 val renameStandByPatch = resourcePatch(
@@ -12,6 +13,8 @@ val renameStandByPatch = resourcePatch(
     description = "Changes the launcher name to R3D StandBy.",
     default = true
 ) {
+
+    dependsOn(disableLicenseCheckPatch)
 
     compatibleWith(
         Compatibility(
