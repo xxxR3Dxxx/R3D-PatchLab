@@ -1,3 +1,9 @@
+## [1.0.1-dev.3](https://github.com/xxxR3Dxxx/R3D-PatchLab/compare/v1.0.1-dev.2...v1.0.1-dev.3) (2026-08-31)
+
+### 🐛 Bug Fixes
+
+* update StandBy fingerprint testing ([4d48e6e](https://github.com/xxxR3Dxxx/R3D-PatchLab/commit/4d48e6e84642dfa06c792250caff80b7e0c4fcf5))
+
 ## 1.0.0 (2026-08-11)
 
 ### 🐛 Bug Fixes
