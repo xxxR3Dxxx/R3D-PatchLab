@@ -1,3 +1,9 @@
+## [1.0.1-dev.4](https://github.com/xxxR3Dxxx/R3D-PatchLab/compare/v1.0.1-dev.3...v1.0.1-dev.4) (2026-08-31)
+
+### 🐛 Bug Fixes
+
+* restore StandBy patch dependency ([33fc0de](https://github.com/xxxR3Dxxx/R3D-PatchLab/commit/33fc0debfdace86856cd791aafad0bee7b78fb96))
+
 ## [1.0.1-dev.3](https://github.com/xxxR3Dxxx/R3D-PatchLab/compare/v1.0.1-dev.2...v1.0.1-dev.3) (2026-08-31)
 
 ### 🐛 Bug Fixes
