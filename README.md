@@ -11,16 +11,20 @@ I create these patches for fun, learning, and experimentation. I use AI extensiv
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.1-dev.3](https://github.com/xxxR3Dxxx/R3D-PatchLab/releases/tag/v1.0.1-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;3 patches total
+> **[v1.0.1-dev.5](https://github.com/xxxR3Dxxx/R3D-PatchLab/releases/tag/v1.0.1-dev.5)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
-<summary>📦 StandBy Mode&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
+<summary>📦 StandBy Mode&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
+
+**🎯 Supported versions:**
+
+| 2.1.22.561 |
+| :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Fingerprint Probe](#fingerprint-probe) | Tests structural fingerprint matching. |  |
 | [Rename StandBy](#rename-standby) | Changes the launcher name to R3D StandBy. |  |
-| [Unlock Premium](#unlock-premium) | Unlock Premium Features. |  |
 
 </details>
 
