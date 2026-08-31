@@ -15,8 +15,8 @@ import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 
 @Suppress("unused")
 val fingerprintProbePatch = bytecodePatch(
-    name = "Fingerprint Probe",
-    description = "Tests structural fingerprint matching."
+    name = "Unlock Premium",
+    description = "Unlocks Premium Features."
 ) {
     dependsOn(disableLicenseCheckPatch)
 
